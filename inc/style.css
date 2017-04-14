@@ -1,0 +1,37 @@
+body{
+	background-color:#000;
+	color:#fff;
+}
+a{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #cc181e;
+}
+a:hover{
+	text-decoration: underline;
+}
+#dcm{
+	margin: auto;
+	position: absolute;
+	top: 48%;
+	left: 42%;
+	display: block;
+	background-color: #000;
+	color: #cc181e;
+	font-weight: bold;
+	font-size: 200%;
+	border: 4px solid #cc181e;	
+}
+#dcm:active{
+	border: 4px solid #980005;
+	color: #980005;
+}
+#dcm:hover{
+	background-color:#2f0000;
+}
+#footer{
+	position: absolute;
+	font-size: 75%;
+	bottom:10px;
+	left:42%;
+}
