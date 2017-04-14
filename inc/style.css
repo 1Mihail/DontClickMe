@@ -33,5 +33,6 @@ a:hover{
 	position: absolute;
 	font-size: 75%;
 	bottom:10px;
-	left:42%;
+	width:99.6%;
+	text-align:center;
 }
